@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Ирина Рябова](https://up.htmlacademy.ru/javascript/8/user/186230).
-* Наставник: `Неизвестно`.
+* Наставник: `Нет`.
 
 ---
 
